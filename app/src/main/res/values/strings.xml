@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrangeToothController</string>
+    <string name="stop">STOP</string>
+    <string name="disconnect">disconnect</string>
+    <string name="beep">BEEP</string>
+    <string name="choose_speed_level">CHOOSE SPEED LEVEL!</string>
+</resources>
